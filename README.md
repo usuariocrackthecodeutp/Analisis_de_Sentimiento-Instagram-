@@ -6,3 +6,4 @@
 # ARCHIVOS
 # https://colab.research.google.com/drive/1tHcmfySUeEBUhEmygVGm3UlhrCDJcOQC?usp=sharing
 # Presentación: https://utpedupe-my.sharepoint.com/:p:/r/personal/u17200421_utp_edu_pe/_layouts/15/doc2.aspx?sourcedoc=%7B89d81313-9734-4276-8c1e-9f18ae40342e%7D&action=edit
+# Post de extracción de datos: https://www.instagram.com/p/CzMR63HuST8/?igshid=MXhwM3dxdnYxeXg5Zw%3D%3D
